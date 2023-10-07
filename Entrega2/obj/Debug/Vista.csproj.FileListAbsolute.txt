@@ -1,0 +1,17 @@
+C:\Users\nelso\source\repos\Entrega2\Entrega2\obj\Debug\Entrega2.Bienvenida.resources
+C:\Users\nelso\source\repos\Entrega2\Entrega2\obj\Debug\Entrega2.Pedidos.resources
+C:\Users\nelso\source\repos\Entrega2\Entrega2\obj\Debug\Entrega2.Producto.resources
+C:\Users\nelso\source\repos\Entrega2\Entrega2\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\nelso\source\repos\Entrega2\Entrega2\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\nelso\source\repos\Entrega2\Entrega2\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\nelso\source\repos\Entrega2\Entrega2\bin\Debug\Vista.exe.config
+C:\Users\nelso\source\repos\Entrega2\Entrega2\bin\Debug\Vista.exe
+C:\Users\nelso\source\repos\Entrega2\Entrega2\bin\Debug\Vista.pdb
+C:\Users\nelso\source\repos\Entrega2\Entrega2\obj\Debug\Vista.exe
+C:\Users\nelso\source\repos\Entrega2\Entrega2\obj\Debug\Vista.pdb
+C:\Users\nelso\source\repos\Entrega2\Entrega2\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\nelso\source\repos\Entrega2\Entrega2\bin\Debug\Controlador.dll
+C:\Users\nelso\source\repos\Entrega2\Entrega2\bin\Debug\Modelo.dll
+C:\Users\nelso\source\repos\Entrega2\Entrega2\bin\Debug\Controlador.pdb
+C:\Users\nelso\source\repos\Entrega2\Entrega2\bin\Debug\Modelo.pdb
+C:\Users\nelso\source\repos\Entrega2\Entrega2\obj\Debug\Vista.csproj.CopyComplete
